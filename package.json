@@ -30,6 +30,9 @@
     "shortid": "^2.2.15",
     "validator": "^13.1.17"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
